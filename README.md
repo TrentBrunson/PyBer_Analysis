@@ -7,4 +7,4 @@ The technical difficulties were not particularly difficult or unique.  The most 
 ---
 For future consideration, recommend double-clicking into fares by city type by aggregating two more data elements.  Ride data includes length of ride, both distance and time (it was excluded from this data set).  Analysis of fare per unit distance and fare as a function of time would inform efficiency measures and potentially reveal opportunities to improve the bottom-line.  Technically, these two metrics are as easy to calculate as fare by city type -- they would use the same methods.  Lastly, if there is data to correlate customer information to rides, a frequency and customer retention analysis could commence which will help drive topline growth.  Grouping ride ID by customer (can be an arbitrary customer ID for data privacy regulations) will show who uses the service the most.  Then correlating this with city type can inform marketing strategies (answer the question: Where do I use limited marketing dollars?) and minimize cost of customer acquisition.
 ---
-!analysis/Challenge_Chart.png
+![TotalFarebyCityType]analysis/Challenge_Chart.png
