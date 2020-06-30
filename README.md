@@ -1,6 +1,6 @@
 # Pyber_Analysis
 ---
-### 
+### test
 ---
 Pyber requested a final analysis of key metrics and visualization of weekly fare totals grouped by type of city.  After cleaning and merging the data sets and discovering the city types, the number of rides was totaled as well as the sum of drivers and fares by city type.  Then calculations using those values returned the average fares per ride and per driver by city type.  Ultimately, the weekly fare totals were graphically presented (see image 1).  These two analyses showed that the highest total revenue is seen in urban communities, as expected based on the total volume of rides.  However, the highest revenue per ride is seen in rural settings.  The rural distances could likely be the determining factor, but with the given data set, it is an assumption.  Including ride start/stop times and distance in the data sets will easily answer this next question.
 ---
